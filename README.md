@@ -7,7 +7,7 @@
 Projeto proposto pelo curso da  [Trybe](https://betrybe.com/)  para resolução de um case. O case consiste em desenvolver uma aplicação fullstack React, NodeJs com MySQL, utilizando da arquitetura em camadas(MVC).
 Funcionalidades:
 
--   Fazer uma lista de tarefas de forma ordenada.
+-   Fazer uma lista de tarefas.
 -   O usuário pode inserir, atualizar e remover uma tarefa na lista.
 -   A tarefa tem um status que pode ser editado pelo usuário.
 
